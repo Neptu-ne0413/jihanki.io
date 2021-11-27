@@ -37,8 +37,8 @@ body {
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 150px;
-  padding:100px;
+  height: 100px;
+  
 }
 .footer-list {
   float: right;

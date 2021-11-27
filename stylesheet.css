@@ -30,7 +30,7 @@ body {
   }
 .footer {
   background-color: #2f5167;
-  height: 180x;
+  height: 80x;
   padding: 40px;
 }
 
@@ -48,4 +48,11 @@ body {
   padding-bottom: 20px;
   color:#32cd32;
 }
+.contents-item-1{
+  height:140px;
+width:187px;
+}
+.contents-item{
+  height:140px;
+  width:94;
 

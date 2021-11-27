@@ -4,8 +4,10 @@
   height:170px;
 }
 .header-logo{
-  float:left;
-  font-size:36px;
+ float: left;
+  font-size: 40px;
+  padding: 20px 40px;
+}
 body {
   font-family: "Avenir Next";
 }

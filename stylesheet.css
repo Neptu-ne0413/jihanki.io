@@ -30,7 +30,6 @@ body {
   }
 .footer {
   background-color: #2f5167;
-  color: #fff;
   height: 140px;
   padding: 40px;
 }
@@ -38,6 +37,7 @@ body {
 .footer-logo {
   float: left;
   font-size: 32px;
+  color:#ffffff;
 }
 
 .footer-list {
@@ -46,5 +46,6 @@ body {
 
 .footer-list li {
   padding-bottom: 20px;
+  color:#32cd32;
 }
 

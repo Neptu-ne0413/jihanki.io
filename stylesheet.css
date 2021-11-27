@@ -84,13 +84,12 @@ input, textarea {
   background-color:#dee7ec;
   color:#889eab;
 }
-
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 130px;
+  height: 120px;
   padding: 40px;
-  }
+}
 
 .footer-logo {
   float: left;
@@ -103,5 +102,4 @@ input, textarea {
 
 .footer-list li {
   padding-bottom: 20px;
-  font-size:25px;
 }

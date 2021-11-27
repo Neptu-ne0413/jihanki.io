@@ -1,5 +1,5 @@
 .header{
-  background-color:#26d0c9;
+  background-color:#00bfff;
   color:#fff;
   height:170px;
 }
@@ -7,12 +7,14 @@
  float: left;
   font-size:80px;
   padding: 25px 45px;
+
 }
 body {
   font-family: "Avenir Next";
 }
 .copy-container h1{
   font-size:70px;
+  background-color:#7fffd4;
   }
 .copy-container h2{
   font-size:40px;
@@ -42,5 +44,7 @@ body {
   float: right;
 }
 .footer-list li {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
+.
+  

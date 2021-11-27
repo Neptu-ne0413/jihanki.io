@@ -45,7 +45,10 @@ li {
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
-
+.contents{
+  height:700;
+  width:120px;
+  
 .contents-item {
   margin-right: 40px;
   height:188px;
@@ -87,7 +90,7 @@ input, textarea {
   color: #fff;
   height: 120px;
   padding: 40px;
-}
+  }
 
 .footer-logo {
   float: left;

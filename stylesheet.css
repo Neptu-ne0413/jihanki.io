@@ -12,7 +12,7 @@ body {
   font-family: "Avenir Next";
 }
 .copy-container h1{
-  font-size:120px;
+  font-size:90px;
   }
 .copy-container h2{
   font-size:50px;
@@ -26,3 +26,21 @@ body {
     padding-bottom: 15px;
     margin-bottom: 50px;
   }
+.footer-logo{
+   float: left;
+  font-size: 32px;
+}.footer-list {
+  float: right;
+}
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  padding-bottom: 20px;
+}

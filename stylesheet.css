@@ -1,7 +1,20 @@
-.title{
+.header{
   background-color:#26d0c9;
   color:#fff;
+  height:90px;
 }
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:20px 40px;
 body {
   font-family: "Avenir Next";
 }
+copy-container h1{
+  font-size:120px;
+  }
+copy-container h2{
+  font-size:50px;
+  }
+.copy-container span {
+  color: #ff4a4a;

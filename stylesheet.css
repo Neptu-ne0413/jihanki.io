@@ -39,11 +39,6 @@ li {
   color: #ff4a4a;
 }
 
-.contents {
-  height: 500px;
-  margin-top: 100px;
-}
-
 .section-title {
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
@@ -53,7 +48,13 @@ li {
 
 .contents-item {
   margin-right: 40px;
+  height:188px;
+ width:141px;
 }
+.contents-item-1{
+  height:162px;
+  width:240px;
+  
 
 .contents-item p {
   font-size: 24px;

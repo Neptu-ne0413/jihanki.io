@@ -1,1 +1,1 @@
-# jihanki.io
+# jihanki

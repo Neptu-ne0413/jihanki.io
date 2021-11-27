@@ -30,7 +30,7 @@ body {
   }
 .footer {
   background-color: #2f5167;
-  height: 80x;
+  height: 140;
   padding: 40px;
 }
 
@@ -41,12 +41,10 @@ body {
 }
 
 .footer-list {
-  float: right;
-}
-
-.footer-list li {
-  padding-bottom: 20px;
-  color:#32cd32;
+  float: left;
+  font-size:32px;
+   color:#32cd32;
+  padding-bottom: 20px
 }
 .contents-item-1{
   height:140px;
